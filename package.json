@@ -25,7 +25,9 @@
     "url": "https://github.com/rorygarand/react-amplitude/issues"
   },
   "homepage": "https://github.com/rorygarand/react-amplitude",
-  "dependencies": {},
+  "dependencies": {
+    "amplitude-js": "^3.7.0"
+  },
   "devDependencies": {
     "babel-core": "^6.24.0",
     "babel-loader": "^6.4.1",
